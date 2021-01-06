@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "id": 1,
+      "cname": "北京柯蓝科技有限公司",
+      "leader": "刘海海",
+      "teacher": "张三",
+      "activityDate": "2019-05-26",
+      "address": "科技楼11层1"
+    }, {
+      "id": 2,
+      "cname": "北京思特奇有限公司",
+      "leader": "刘海",
+      "teacher": "李四",
+      "activityDate": "2019-05-26",
+      "address": "科技楼10层1"
+    }, {
+      "id": 3,
+      "cname": "大连华语有限公司",
+      "leader": "刘一",
+      "teacher": "王菲",
+      "activityDate": "2019-05-26",
+      "address": "科技楼9层1"
+    }, {
+      "id": 4,
+      "cname": "山东科技有限公司",
+      "leader": "张宇",
+      "teacher": "李斯",
+      "activityDate": "2019-05-26",
+      "address": "科技楼8层1"
+    }
+  ]
+}
